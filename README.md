@@ -1,7 +1,7 @@
 # Exploratory Data Analysis with R
 Author's : Aliriza Hamonangan Matondang
 ## Introduction
-Hello everyone, i have tried to do Exploratory Data Analysis with R. I did the analysis based on the plot to find the insight of the dataset. We have made 6 Question to pratice my analysis to find the insight of the dataset
+Hello everyone, i have tried to study Exploratory Data Analysis with R. I did the analysis based on the plot to find the insight of the dataset. We have made 6 Questions to pratice my analysis to find the insight of the dataset
 ## Data Information
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 - MSSubClass: The building class
